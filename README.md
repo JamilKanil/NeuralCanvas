@@ -81,7 +81,7 @@
 ### Option 1: Open Directly
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/NeuralCanvas.git
+git clone https://github.com/JamilKanil/NeuralCanvas.git
 cd NeuralCanvas
 
 # Open in browser (no build step required!)
