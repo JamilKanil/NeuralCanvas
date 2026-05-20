@@ -1141,7 +1141,7 @@ Create a cohesive, production-ready design system that reflects the brand identi
 
         <!-- Footer -->
         <div class="mockup-footer" style="background:${n800};color:${n400};border-top:none;">
-          © 2025 ${brandName}. All rights reserved. · Built with NeuralCanvas
+          © 2026 ${brandName}. All rights reserved. · Built with NeuralCanvas
         </div>
       </div>
     `;
